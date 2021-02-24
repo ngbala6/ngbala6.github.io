@@ -53,7 +53,7 @@ about_profile_image: images/bala.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Bala Murugan and I'm a Junior Data Scientist. I am well at Statistics.
 
-  # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+# I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Projects # Title for the section
